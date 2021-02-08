@@ -8,7 +8,7 @@ This project used `Redux` which was used in state management of the web app. `Fi
 
 ## More 
 
-The following project was also featured by a well known React Youtuber named Sonny. 
+The following project was also featured by a well known React Youtuber named Sonny. <br/>
 Sonny's Youtube Link: [https://www.youtube.com/user/ssangha32](https://www.youtube.com/user/ssangha32)
 
 ## Screenshot
