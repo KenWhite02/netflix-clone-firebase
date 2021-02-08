@@ -6,6 +6,13 @@ Fullstack-Netflix-Clone
 
 This project used `Redux` which was used in state management of the web app. `Firebase` was also intergrated and served as the `backend` of this application and hence the app is fully equipped with `full user authentication`.
 
+## Video
+The following project was also featured by a well known React Youtuber named Sonny. 
+Sonny's Youtube Link: [https://www.youtube.com/user/ssangha32](https://www.youtube.com/user/ssangha32)
+
+mtp://SONY_G3121_RQ3004M9HH/SD%20card/Netflix%20Challenge/2021-02-07%2015-14-40.mp4
+
+
 ## Screenshot
 
 ![fullstack-netflix](https://user-images.githubusercontent.com/68158625/107247583-7ba92300-6a42-11eb-8420-b0f17e186ce0.png)
