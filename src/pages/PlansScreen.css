@@ -1,0 +1,31 @@
+.plansScreen_plan {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  opacity: 0.8;
+}
+.plansScreen_plan:hover {
+  opacity: 1;
+}
+.plansScreen_plan button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #e50914;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+}
+.plansScreen_info {
+  opacity: 0.8;
+}
+.plansScreen_info:hover {
+  opacity: 1;
+}
+
+@media screen and (max-width: 400px) {
+  .plansScreen_plan button {
+    padding: 5px 10px;
+    font-size: 0.7rem;
+  }
+}
